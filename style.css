@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,700&display=swap&subset=latin-ext');
+
+html {
+  font-family: 'Roboto', sans-serif;
+}
+
+body {
+  padding: 5rem 2rem;
+  gap: 0.5rem 1rem;
+  align-items: center;
+  max-width: 40rem;
+  margin: 5px;
+}
+
+#button {
+  background-color: blue;
+}
+
+.cerveny__ramecek 
+{
+  border: 2px solid red;
+}
+
+.chyba {
+  border: 2px solid red;
+}
